@@ -24,6 +24,42 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.google-scholar -%}
+  <li class="list-inline-item">
+    <a href="https://scholar.google.com/{{ site.social-network-links.google-scholar }}" title="Google Scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Google Scholar</span>
+    </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.twitter -%}
+  <li class="list-inline-item">
+    <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitter</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.ORCID -%}
+ <li class="list-inline-item">
+   <a href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+     </span>
+     <span class="sr-only">ORCID</span>
+   </a>
+ </li>
+{%- endif -%}
+
 {%- if site.social-network-links.calendly -%}
   <li class="list-inline-item">
     <a href="https://calendly.com/{{ site.social-network-links.calendly }}" title="Schedule a meeting with me">
@@ -68,18 +104,6 @@
         <i class="fab fa-github fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">GitHub</span>
-   </a>
-  </li>
-{%- endif -%}
-
-{%- if site.social-network-links.twitter -%}
-  <li class="list-inline-item">
-    <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Twitter</span>
    </a>
   </li>
 {%- endif -%}
@@ -236,30 +260,6 @@
         <i class="fab fa-mastodon fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Mastodon</span>
-    </a>
-  </li>
-{%- endif -%}
-
-{%- if site.social-network-links.ORCID -%}
- <li class="list-inline-item">
-   <a href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID">
-     <span class="fa-stack fa-lg" aria-hidden="true">
-       <i class="fas fa-circle fa-stack-2x"></i>
-       <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
-     </span>
-     <span class="sr-only">ORCID</span>
-   </a>
- </li>
-{%- endif -%}
-
-{%- if site.social-network-links.google-scholar -%}
-  <li class="list-inline-item">
-    <a href="https://scholar.google.com/{{ site.social-network-links.google-scholar }}" title="Google Scholar">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Google Scholar</span>
     </a>
   </li>
 {%- endif -%}
