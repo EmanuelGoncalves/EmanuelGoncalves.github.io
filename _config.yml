@@ -16,9 +16,9 @@ author: Emanuel Gonçalves
 navbar-links:
   About Me: "aboutme"
   Publications: "https://scholar.google.com/citations?user=gyEs3B0AAAAJ"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Affiliations:
+    - Ophiomics: "https://www.ophiomics.com/"
+    - Sanger: "https://www.sanger.ac.uk/"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -32,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: /assets/img/image
 
 
 # --- Footer social media links --- #
@@ -82,7 +82,7 @@ share-links-active:
 #url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 15
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
