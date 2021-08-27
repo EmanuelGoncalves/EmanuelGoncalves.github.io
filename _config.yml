@@ -40,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "egoncalves@ophiomics.com"
+  email: "emanuel.v.goncalves@tecnico.ulisboa.pt"
   google-scholar: citations?user=gyEs3B0AAAAJ
   twitter: emanuelvgo
   ORCID: 0000-0002-9967-5205
