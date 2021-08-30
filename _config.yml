@@ -17,9 +17,9 @@ navbar-links:
   About Me: "aboutme"
   Publications: "https://scholar.google.com/citations?user=gyEs3B0AAAAJ"
   Affiliations:
-    - IST: "https://tecnico.ulisboa.pt/pt/"
-    - INESC-ID: "https://www.inesc-id.pt/"
-    - Sanger: "https://www.sanger.ac.uk/"
+    - IST: "https://tecnico.ulisboa.pt/pt/": "assets/img/crispy_logo.png"
+#    - INESC-ID: "https://www.inesc-id.pt/"
+#    - Sanger: "https://www.sanger.ac.uk/"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
