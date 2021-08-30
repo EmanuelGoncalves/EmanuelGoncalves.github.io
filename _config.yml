@@ -101,14 +101,14 @@ keywords: "Emanuel, Goncalves, Bioinformatics, Computational, Biology, Machine L
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#fef9f8"
+navbar-col: "#ffffff"
 navbar-text-col: "#0d0d0d"
 navbar-border-col: "#fef9f8"
-page-col: "#fef9f8"
+page-col: "#ffffff"
 text-col: "#0d0d0d"
 link-col: "#008AFF"
 hover-col: "#FF5733"
-footer-col: "#fef9f8"
+footer-col: "#ffffff"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
