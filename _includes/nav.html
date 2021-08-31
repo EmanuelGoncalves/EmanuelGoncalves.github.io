@@ -31,9 +31,6 @@
         {%- endif -%}
       {%- endfor -%}
       
-      <a href="https://tecnico.ulisboa.pt/pt/"><img alt="Navigation bar avatar" class="avatar-img" src="assets/img/tecnico_logo.png" /></a>
-      <a href="https://www.inesc-id.pt/"><img alt="Navigation bar avatar" class="avatar-img" src="assets/img/logo_INESC-ID.png" /></a>
-      
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
@@ -42,6 +39,13 @@
           </a>
         </li>
       {%- endif -%}
+
+      {%- for link in site.navbar-logos -%}
+        <li class="nav-item">
+          <a href="{{ link[0] | relative_url }}"><img alt="Navigation bar avatar" class="avatar-img" src="{{ link[1] | relative_url }}" height="60"/></a>
+        </li>
+      {%- endfor -%}
+
     </ul>
   </div>
 

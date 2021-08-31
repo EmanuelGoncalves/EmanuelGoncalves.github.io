@@ -22,6 +22,10 @@ navbar-links:
 #    - Sanger: "https://www.sanger.ac.uk/"
 #  Author's home: "https://deanattali.com"
 
+navbar-logos:
+  "https://tecnico.ulisboa.pt/pt/": "assets/img/tecnico_logo.png"
+  "https://www.inesc-id.pt/": "assets/img/logo_INESC-ID.png"
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
