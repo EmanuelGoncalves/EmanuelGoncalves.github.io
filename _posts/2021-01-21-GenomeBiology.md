@@ -2,7 +2,7 @@
 layout: post
 title: MinLibCas9
 subtitle: Minimal genome-wide human CRISPR-Cas9 library
-#cover-img: /assets/img/fx1_lrg.jpg
+cover-img: /assets/img/genome_biology_2021.png
 thumbnail-img: /assets/img/genome_biology_2021.png
 share-img: /assets/img/genome_biology_2021.png
 gh-repo: EmanuelGoncalves/crispy
@@ -17,7 +17,6 @@ We developed a data-driven *in silico* pipeline to design and optimise a minimal
 <br>
 This library addresses a major bottleneck in applying genome-scale screens to hard to grow models, complex cultures and rich phenotypic endpoint assays (e.g. scRNA-seq, imaging-based assay).
 
-![Graphical abstract](/assets/img/genome_biology_2021.png)
 
 ### Reference
 [Gonçalves, Emanuel, Mark Thomas, Fiona M. Behan, Gabriele Picco, Clare Pacini, Felicity Allen, Alessandro Vinceti, et al. 2021. “Minimal Genome-Wide Human CRISPR-Cas9 Library.” Genome Biology 22 (1): 40.](https://doi.org/10.1186/s13059-021-02268-4)

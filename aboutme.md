@@ -2,9 +2,11 @@
 layout: page
 title: Emanuel Gonçalves
 subtitle: Assistant Professor @ INESC-ID & IST
+permalink: /aboutme/
+baseurl: /emanuel.v.goncalves/
 ---
 
-![Emanuel](/assets/img/headshot.jpg)
+![Emanuel](https://web.tecnico.ulisboa.pt/~emanuel.v.goncalves//assets/img/headshot.jpg)
 
 I’m an Assistant Professor at Instituto Superior Técnico (IST), University of Lisbon, and INESC-ID, developing machine learning approaches to integrate large-scale biological datasets to understand protein and metabolic regulation and their contexts.
 

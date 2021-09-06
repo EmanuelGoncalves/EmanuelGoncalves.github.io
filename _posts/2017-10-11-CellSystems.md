@@ -2,7 +2,7 @@
 layout: post
 title: Copy Number Buffering in Cancer
 subtitle: Widespread post-transcriptional attenuation of genomic copy-number variation in cancer
-#cover-img: /assets/img/fx1_lrg.jpg
+cover-img: /assets/img/fx1_lrg.jpg
 thumbnail-img: /assets/img/fx1_lrg.jpg
 share-img: /assets/img/fx1_lrg.jpg
 #gh-badge: [star, fork, follow]
@@ -19,7 +19,6 @@ This revealed that copy-number changes are frequently post-transcriptionally att
 <br>
 [More recently](https://doi.org/10.1074/mcp.RA118.001280), we reported the importance of protein interfaces to regulate these interactions.
 
-![Graphical abstract](/assets/img/fx1_lrg.jpg)
 
 ### This Study Was Featured
 
